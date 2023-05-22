@@ -1,0 +1,7 @@
+amplpy==0.9.2
+ampltools==0.5.2
+matplotlib==3.6.2
+networkx==3.1
+numpy==1.23.5
+pygad==3.0.1
+tsplib95==0.7.1
